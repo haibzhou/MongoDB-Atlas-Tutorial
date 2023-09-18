@@ -100,12 +100,29 @@ Select M0 that is free, select AWS as provider, select us-east-1 as region.
 Enter FirstCluster as new cluster neame
 Click Create to create new cluster.
 
+### Creating a Cluster User
+In order to connect to the database from a script or an application, you must first create a MongoDB database user. The database user allows you to connect and use the databases. Please note this is separate from the user that logs in and manages the clusters and resources in Atlas.
+
+Database users are created per project and have access to all the clusters in the project. You can also assign different roles and privileges to the database users. Note that the first user you create will automatically be granted administrative privileges.
+
+Right below the network access settings, you can create a database user. First enter the username and password and then click on the Create database user button.
+
+If you later need to add more users to the project, you can do it from the Security tab.
 Now you need to configure database username and password in order to access database
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/36ee0e7d-d5c1-4aab-a069-7850bef50fe9)
 
 Select Username and Password, enter username and password, click Create User
 
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/2dba13bf-1016-47b0-a250-14911cbb85ce)
+
+### Allowing Access to Your IP Address
+For security reasons, new database clusters do not have network access enabled by default. You need to enable network access explicitly by whitelisting the addresses that will connect to the cluster.
+
+Each entry can be an IP address, a subnet, or you can enable access from any location. In general, you would grant access only to a list of subnets or IP addresses rather than grant access to any location. This limits the connections your cluster accepts, making it more secure.
+
+To enable network access to your cluster, click on the Connect button from the clusters view in the Atlas management console. This will open up the connection settings wizard.
+
+In order to allow access from your current IP address, click on the Add your current IP address button. If you need to access it from a different IP address or subnet, click on the Add a different IP address button and enter the IP or a subnet using the CIDR notation, such as 172.10.1.0/24.
 Select My Local Environment, Add My Current IP address 
 Please make sure you do not use VPN.
 Click Finish and Close
