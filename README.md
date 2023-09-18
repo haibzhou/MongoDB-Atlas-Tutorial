@@ -180,6 +180,4 @@ you will see there are 606 documents found with property_type equal to "House"
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/21737324-10e5-4773-8d18-fa7459327323)
 
 
-
-
-## Step7 - Insert/update data in Atlas
+# Congratuations! you have finished the MongoDB Atlas Tutorial lab
