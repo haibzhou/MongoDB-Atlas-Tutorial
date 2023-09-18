@@ -61,6 +61,23 @@ You will be prompted to create new organization. Enter FirstOrg as new organizat
 Add your name as Organization Owner
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/92d7268e-47f1-4ec3-9729-3d7337bc51c0)
 
+Click Create Organization
+
+It will let you create project
+
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/db50e566-d401-4a85-8337-b594eda345ac)
+
+Click New Project
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/a7704e75-93d7-46bd-afd5-78e3f8973e66)
+Enter FirstProject as name and click Next
+
+Add your name as Project Owner
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/6020d3cc-67bc-487d-91b1-69065f3c1d7c)
+Click Create Project
+
+
+
+
 
 ## Step2 - Create MongoDB Atlas cluster
 ## Step3 - Configure network access and create a cluster user
