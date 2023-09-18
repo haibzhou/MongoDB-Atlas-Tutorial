@@ -133,6 +133,46 @@ Click Finish and Close
 
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/515dbd75-ef3a-41b8-9140-f1f30073f367)
 ## Step4 - Connect to the cluster
+Depending on your application, you may need to install a driver (library) corresponding to your platform in order to connect to a cluster in Atlas. You can see the full list of 
+supported drivers here
+. If you’re using 
+Compass
+ (the MongoDB UI application) or the 
+mongo shell
+ application, the drivers are already built in.
+
+Regardless of your application, you’ll need to generate a database connection string for your cluster. If you are just creating your cluster, the last step in the process will allow you to create a connection string. Once you have enabled network access and created a database user, you can click on the Choose connection method button, which will allow you to generate a connection string for your application. You can also create the connection string by clicking on the Connect button on your cluster from the Clusters tab in Atlas.
+
+Click Database on left panel
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/cbbc18b1-62a7-4197-91e8-bc82d97b6c4a)
+
+Click Connect
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/86e2e802-a0d1-4266-8c91-20bbd9c81d8e)
+
+This lab will use Mongodb Compass to connect to Atlas
+Click Compass
+
+Select operation system and download MongoDB Compass, click Download Compass. Install Compass on your computer. Open Compass
+
+Copy the connection string and paste it into COmpass, updata the password, click Connect
+
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/18de3d19-a72b-4705-a2a8-7533615e794a)
+
+You should be able to connect to Atlas.
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/4096173c-8293-4841-8ca2-247452aeff50)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Step5 - Load data into Atlas
 ## Step6 - Search data in Atlas
 ## Step7 - Insert/update data in Atlas
