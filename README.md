@@ -100,6 +100,10 @@ Select M0 that is free, select AWS as provider, select us-east-1 as region.
 Enter FirstCluster as new cluster neame
 Click Create to create new cluster.
 
+
+
+
+## Step3 - Configure network access and create a cluster user
 ### Creating a Cluster User
 In order to connect to the database from a script or an application, you must first create a MongoDB database user. The database user allows you to connect and use the databases. Please note this is separate from the user that logs in and manages the clusters and resources in Atlas.
 
@@ -128,9 +132,6 @@ Please make sure you do not use VPN.
 Click Finish and Close
 
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/515dbd75-ef3a-41b8-9140-f1f30073f367)
-
-
-## Step3 - Configure network access and create a cluster user
 ## Step4 - Connect to the cluster
 ## Step5 - Load data into Atlas
 ## Step6 - Search data in Atlas
