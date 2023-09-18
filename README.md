@@ -43,6 +43,12 @@ A field in a document, is like a column in a row of data in Oracle.
 
 # Getting Started with MongoDB Atlas
 ## Step1 - Create MongoDB Cloud account
+### Registration
+In order to create an Atlas account, navigate to 
+https://www.mongodb.com/cloud/atlas/register
+.
+
+You can sign up using your Google account. This would be the preferred method; however, you can also register using your email address.
 ## Step2 - Create MongoDB Atlas cluster
 ## Step3 - Configure network access and create a cluster user
 ## Step4 - Connect to the cluster
