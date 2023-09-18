@@ -161,18 +161,13 @@ Copy the connection string and paste it into COmpass, updata the password, click
 You should be able to connect to Atlas.
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/4096173c-8293-4841-8ca2-247452aeff50)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Step5 - Load data into Atlas
+
+Atlas provide sample data set. From the cluster view in the Atlas management console, click on the ellipsis button [...] and select “Load Sample Data” from the menu. Then confirm your selection.
+
+This will load a few sample collections that you can use to run test queries and learn more about MongoDB. You can view the sample collections loaded by clicking on the Collections button on your cluster from the Clusters tab in Atlas.
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/1f6ff1bd-3fa2-4a8d-a058-371e56da45af)
+
+
 ## Step6 - Search data in Atlas
 ## Step7 - Insert/update data in Atlas
