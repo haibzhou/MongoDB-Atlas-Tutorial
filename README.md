@@ -54,6 +54,14 @@ Click Try Free
 
 
 You can sign up using your Google account. This would be the preferred method; however, you can also register using your email address.
+
+You will be prompted to create new organization. Enter FirstOrg as new organization name
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/3f778b7d-69ec-49d6-a35e-bc19945d079b)
+
+Add your name as Organization Owner
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/92d7268e-47f1-4ec3-9729-3d7337bc51c0)
+
+
 ## Step2 - Create MongoDB Atlas cluster
 ## Step3 - Configure network access and create a cluster user
 ## Step4 - Connect to the cluster
