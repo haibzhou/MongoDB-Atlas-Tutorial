@@ -75,17 +75,6 @@ Add your name as Project Owner
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/6020d3cc-67bc-487d-91b1-69065f3c1d7c)
 Click Create Project
 
-
-
-
-
-
-
-
-
-
-
-
 ## Step2 - Create MongoDB Atlas cluster
 This will bring you to create cluster page
 You’ll be presented with a choice of Shared Cluster, Dedicated Cluster, and Multi-Cloud & Multi-Region Cluster.
@@ -97,6 +86,9 @@ Dedicated Cluster provides you with a dedicated set of hardware and network isol
 The Multi-Cloud & Multi-Region Cluster builds on top of what the dedicated cluster provides. It offers the best availability since it can replicate data across multiple geographic regions. It also allows the creation of multi-cloud clusters using any combination of cloud providers: AWS, Azure, and GCP.
 
 If you’d like to explore a little with the free tier, select the Shared Cluster.
+You’ll also be able to select the cluster tier and additional settings, such as turn on backup and cluster name. Some options, such as the MongoDB version cloud backups, are only available with the paid cluster tiers.
+
+Once you are satisfied with your selection, click the Create Cluster button. It may take a couple of minutes for Atlas to launch your cluster in the selected cloud hosting provider.
 
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/ac66fe9b-cb05-4782-a655-ac77b72517ed)
 
