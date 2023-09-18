@@ -168,6 +168,17 @@ Atlas provide sample data set. From the cluster view in the Atlas management con
 This will load a few sample collections that you can use to run test queries and learn more about MongoDB. You can view the sample collections loaded by clicking on the Collections button on your cluster from the Clusters tab in Atlas.
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/1f6ff1bd-3fa2-4a8d-a058-371e56da45af)
 
+Wait for the data load finished.
 
 ## Step6 - Search data in Atlas
+Move to Mongodb Compass and select Database --> sample_airbnb --> listingsAndReviews. You can see there are 5555 documents. Mongodb automatically assign _id for each document.
+Now we want to find out all listing with property_type: "House". Enter {property: "House"} in the Filter and click Find
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/da7cfcb2-4ffc-4afa-8613-f130b118e1ca)
+
+you will see there are 606 documents found with property_type equal to "House"
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/21737324-10e5-4773-8d18-fa7459327323)
+
+
+
+
 ## Step7 - Insert/update data in Atlas
