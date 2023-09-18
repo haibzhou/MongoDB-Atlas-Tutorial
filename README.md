@@ -19,19 +19,24 @@ You can create multiple projects in an organization. Each project has its own Mo
 
 Projects within the same organization share the same billing settings.
 
-### Cluster - In the context of MongoDB, “cluster” is the word usually used for either a replica set or a sharded cluster. A replica set is the 
+### Cluster 
+In the context of MongoDB, “cluster” is the word usually used for either a replica set or a sharded cluster. A replica set is the 
 replication of a group of MongoDB servers that hold copies of the same data; this is a fundamental property for production deployments as it ensures high availability and redundancy, which are crucial  features to have in place in case of failovers and planned maintenance periods.
 A sharded cluster is also commonly known as horizontal scaling, where data is distributed across many servers.
 The main purpose of sharded MongoDB is to scale reads and writes along multiple shards.
 The minmum cluster size is three and each node is deployed into different AZ for HA
 
-### Database - A database is the same idea as Oracle Database, except instead of having a group of tables. A Mongo Database is a container of collections
+### Database
+A database is the same idea as Oracle Database, except instead of having a group of tables. A Mongo Database is a container of collections
 
-### Collection - This is equivalent to a table in Oracle.
+### Collection
+This is equivalent to a table in Oracle.
 
-### Document - This can be roughly viewed as a row in standard databases. The document is refered to as JSON file.
+### Document
+This can be roughly viewed as a row in standard databases. The document is refered to as JSON file.
 
-### Field - A field in a document, is like a column in a row of data in Oracle.
+### Field
+A field in a document, is like a column in a row of data in Oracle.
 
 
 
