@@ -88,6 +88,16 @@ Click Create Project
 
 ## Step2 - Create MongoDB Atlas cluster
 This will bring you to create cluster page
+You’ll be presented with a choice of Shared Cluster, Dedicated Cluster, and Multi-Cloud & Multi-Region Cluster.
+
+Shared Cluster is the least expensive (or free, depending on the usage) but it utilizes shared hardware resources and network.
+
+Dedicated Cluster provides you with a dedicated set of hardware and network isolation as well as the option to scale automatically within a single region.
+
+The Multi-Cloud & Multi-Region Cluster builds on top of what the dedicated cluster provides. It offers the best availability since it can replicate data across multiple geographic regions. It also allows the creation of multi-cloud clusters using any combination of cloud providers: AWS, Azure, and GCP.
+
+If you’d like to explore a little with the free tier, select the Shared Cluster.
+
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/ac66fe9b-cb05-4782-a655-ac77b72517ed)
 
 Click Create
