@@ -10,9 +10,10 @@ Database-as-a-Service (DBaaS) is a service that allows you to set up, deploy, an
 ### Organizations 
 In the organizations and projects hierarchy, an organization can contain many projects. Under this structure, you can:
 
-   - Use the same billing settings across multiple projects in your organization.
-   - View all projects within an organization, create teams of users, and assign teams to projects. See Organizations.
-   -Connect to Atlas as part of live migration to Atlas. See Connect to Atlas.
+   - Use the same billing settings across multiple projects in your organization
+   - View all projects within an organization, create teams of users, and assign teams to projects. See Organizations
+   - 
+
 
 
 
