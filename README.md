@@ -75,6 +75,18 @@ Add your name as Project Owner
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/6020d3cc-67bc-487d-91b1-69065f3c1d7c)
 Click Create Project
 
+
+
+
+
+
+
+
+
+
+
+
+## Step2 - Create MongoDB Atlas cluster
 This will bring you to create cluster page
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/ac66fe9b-cb05-4782-a655-ac77b72517ed)
 
@@ -99,17 +111,6 @@ Click Finish and Close
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/515dbd75-ef3a-41b8-9140-f1f30073f367)
 
 
-
-
-
-
-
-
-
-
-
-
-## Step2 - Create MongoDB Atlas cluster
 ## Step3 - Configure network access and create a cluster user
 ## Step4 - Connect to the cluster
 ## Step5 - Load data into Atlas
