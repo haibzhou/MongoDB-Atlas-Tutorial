@@ -25,6 +25,7 @@ replication of a group of MongoDB servers that hold copies of the same data; thi
 A sharded cluster is also commonly known as horizontal scaling, where data is distributed across many servers.
 The main purpose of sharded MongoDB is to scale reads and writes along multiple shards.
 The minmum cluster size is three and each node is deployed into different AZ for HA
+AWS customers can access Atlas through internet, VPC peering and PrivateLink
 
 ### Database
 A database is the same idea as Oracle Database, except instead of having a group of tables. A Mongo Database is a container of collections
