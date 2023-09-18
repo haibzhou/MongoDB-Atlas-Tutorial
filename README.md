@@ -38,7 +38,7 @@ This can be roughly viewed as a row in standard databases. The document is refer
 
 ### Field
 A field in a document, is like a column in a row of data in Oracle. At the end of the sign-up process, you will be prompted to create an organization and a project.
-![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/886841ce-a05e-4770-8d9c-bebf465676a7)
+
 
 
 
@@ -47,8 +47,11 @@ A field in a document, is like a column in a row of data in Oracle. At the end o
 ## Step1 - Create MongoDB Cloud account
 ### Registration
 In order to create an Atlas account, navigate to https://www.mongodb.com/cloud/atlas/register
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/886841ce-a05e-4770-8d9c-bebf465676a7)
+Click Try Free
 
-.
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/c055b0a1-c45c-42c4-bde4-022b8aca0309)
+
 
 You can sign up using your Google account. This would be the preferred method; however, you can also register using your email address.
 ## Step2 - Create MongoDB Atlas cluster
