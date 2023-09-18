@@ -75,6 +75,36 @@ Add your name as Project Owner
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/6020d3cc-67bc-487d-91b1-69065f3c1d7c)
 Click Create Project
 
+This will bring you to create cluster page
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/ac66fe9b-cb05-4782-a655-ac77b72517ed)
+
+Click Create
+
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/abfdea20-0a24-47e1-ada0-212e74348395)
+
+Select M0 that is free, select AWS as provider, select us-east-1 as region. 
+Enter FirstCluster as new cluster neame
+Click Create to create new cluster.
+
+Now you need to configure database username and password in order to access database
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/36ee0e7d-d5c1-4aab-a069-7850bef50fe9)
+
+Select Username and Password, enter username and password, click Create User
+
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/2dba13bf-1016-47b0-a250-14911cbb85ce)
+Select My Local Environment, Add My Current IP address 
+Please make sure you do not use VPN.
+Click Finish and Close
+
+![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/515dbd75-ef3a-41b8-9140-f1f30073f367)
+
+
+
+
+
+
+
+
 
 
 
