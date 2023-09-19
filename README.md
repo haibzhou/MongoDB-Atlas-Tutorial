@@ -147,6 +147,7 @@ Click Database on left panel
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/cbbc18b1-62a7-4197-91e8-bc82d97b6c4a)
 
 Click Connect
+
 ![image](https://github.com/haibzhou/MongoDB-Atlas-Tutorial/assets/109695471/86e2e802-a0d1-4266-8c91-20bbd9c81d8e)
 
 This lab will use Mongodb Compass to connect to Atlas
